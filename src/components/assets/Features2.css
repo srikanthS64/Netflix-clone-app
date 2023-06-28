@@ -1,0 +1,39 @@
+.row{
+    padding: 50px 0px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    display: flex
+    
+    
+}
+
+.text_collum{
+    flex-basis: 50%;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+.text_collum h2 {
+    
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.text_collum p {
+    font-size: 20px;
+    margin-right: 30%;
+}
+
+
+.img_col {
+    flex-basis: 50%;
+    margin-bottom: 20px;
+    
+}
+.img_col img {
+    display: block;
+    width: 60%;
+    margin: auto;
+
+}

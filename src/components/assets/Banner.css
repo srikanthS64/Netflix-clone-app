@@ -1,0 +1,65 @@
+body{
+    background: #000;
+    color: #fff;
+}
+.Banner{
+    height: 650;
+    background-image: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(https://assets.nflxext.com/ffe/siteui/vlv3/530fc327-2ddb-4038-a3f0-2da2d9ccede1/9c547c8a-e707-4bdb-bdbc-843f134dd2a6/IN-en-20230619-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px 8%;
+    position: relative;
+}
+
+ .Banner_contents{
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 100px;
+    
+ }
+ .Banner_contents h1 {
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ .Banner_contents h3{
+    font-weight:bold;
+    margin-top: 25px;
+    font-size: 25px;
+ }
+
+ .Banner_contents p {
+    color: #fff;
+ }
+
+
+.email_signup input {
+    right: 100px;
+    padding: 15px 30px;
+    color: #fff;
+    background: #000;
+    font-weight: 400;
+
+}
+
+.email_signup button {
+    background: #db0001;
+    color: #fff;
+    font-size: 12px;
+    cursor: pointer;
+    padding: 16px 30px;
+    border-radius: 5px;
+    margin-left: 5px;
+
+}
+
+
+
+
+
+
+
+
+
